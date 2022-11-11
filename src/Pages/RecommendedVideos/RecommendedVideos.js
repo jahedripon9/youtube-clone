@@ -15,20 +15,20 @@ const RecommendedVideos = () => {
           image="https://i.ibb.co/k4h6rhV/image.png"
         />
         <VideoCard
-          title="ভাঙা হৃদয় 💔 #motivation #islamic #alone #time"
+          title="After 3 years, I have create Wordpress website"
           views="193,5K views"
           timestamp="8 months ago"
           channelImage="https://i.ibb.co/BzZXtKJ/Jahad.jpg"
           channel="Jahed Ahmed Ripon"
-          image="https://i.ibb.co/k4h6rhV/image.png"
+          image="https://i.ibb.co/tKwX28s/image.png"
         />
         <VideoCard
-          title="ভাঙা হৃদয় 💔 #motivation #islamic #alone #time"
+          title="সেই সংগ্রামী মানুষের সারিতে"
           views="489K views"
           timestamp="1 year ago"
           channelImage="https://i.ibb.co/BzZXtKJ/Jahad.jpg"
           channel="Jahed Ahmed Ripon"
-          image="https://i.ibb.co/k4h6rhV/image.png"
+          image="https://i.ibb.co/K7hxvnC/image.png"
         />
         <VideoCard
           title="ভাঙা হৃদয় 💔 #motivation #islamic #alone #time"

@@ -4,7 +4,7 @@ import './VideoCard.css'
 
 const VideoCard = ({image, title, channel, views, timestamp, channelImage}) => {
     return (
-        <div className="videoCard">
+       <div className="videoCard">
       <img className="videoCard__thumbnail" src={image} alt="" />
       <div className="videoCard__info">
         <Avatar
