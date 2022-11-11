@@ -2,6 +2,7 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from './Pages/Header/Header';
 import Sidebar from './Pages/Sidebar/Sidebar';
+import SearchPage from './Pages/SearchPage/SearchPage';
 
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
             element={[
               <div className="app__page">
                 <Sidebar />
-                {/* <SearchPage /> */}
+                <SearchPage />
               </div>,
             ]}
           ></Route>
