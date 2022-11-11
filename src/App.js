@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from './Pages/Header/Header';
 import Sidebar from './Pages/Sidebar/Sidebar';
 import SearchPage from './Pages/SearchPage/SearchPage';
+import RecommendedVideos from './Pages/RecommendedVideos/RecommendedVideos';
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
             element={[
               <div className="app__page">
                 <Sidebar />
-                {/* <RecommendedVideos /> */}
+                <RecommendedVideos />
               </div>,
             ]}
           ></Route>
